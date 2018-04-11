@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+""
+Spyder Editor 
+@author vanish
+This is a temporary script file.
+""
 import javax.swing.*;
 import java.io.*;
 
